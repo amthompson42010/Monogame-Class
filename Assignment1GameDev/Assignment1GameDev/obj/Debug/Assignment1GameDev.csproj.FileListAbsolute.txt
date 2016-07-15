@@ -1,0 +1,6 @@
+c:\users\athompson.caps\documents\visual studio 2013\Projects\Assignment1GameDev\Assignment1GameDev\bin\Debug\Assignment1GameDev.exe.config
+c:\users\athompson.caps\documents\visual studio 2013\Projects\Assignment1GameDev\Assignment1GameDev\bin\Debug\Assignment1GameDev.exe
+c:\users\athompson.caps\documents\visual studio 2013\Projects\Assignment1GameDev\Assignment1GameDev\bin\Debug\Assignment1GameDev.pdb
+c:\users\athompson.caps\documents\visual studio 2013\Projects\Assignment1GameDev\Assignment1GameDev\obj\Debug\Assignment1GameDev.csprojResolveAssemblyReference.cache
+c:\users\athompson.caps\documents\visual studio 2013\Projects\Assignment1GameDev\Assignment1GameDev\obj\Debug\Assignment1GameDev.exe
+c:\users\athompson.caps\documents\visual studio 2013\Projects\Assignment1GameDev\Assignment1GameDev\obj\Debug\Assignment1GameDev.pdb
