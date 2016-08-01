@@ -1,0 +1,23 @@
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\FishAndBears.exe.config
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\FishAndBears.exe
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\FishAndBears.pdb
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\MonoGame.Framework.dll
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\OpenTK.dll
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Lidgren.Network.dll
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Tao.Sdl.dll
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\obj\Debug\FishAndBears.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\obj\Debug\FishAndBears.exe
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\obj\Debug\FishAndBears.pdb
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\fish.png
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\playbutton.png
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\quitbutton.png
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\teddybear0.png
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\teddybear1.png
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\teddybear2.png
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\GameAudio.xgs
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\Sound Bank.xsb
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\Wave Bank.xwb
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\backgroundMusic.wav
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\buttonClick.wav
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\confetti.wav
+D:\Documents\Visual Studio 2013\Projects\FishAndBears\FishAndBears\bin\Debug\Content\pirate.wav
